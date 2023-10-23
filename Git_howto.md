@@ -28,3 +28,7 @@ git checkout номер коммита
 ```sh
 git checkout master
 ```
+Просмотр статус вашего файла:
+```sh
+git status
+```
