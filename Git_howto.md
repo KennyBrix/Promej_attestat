@@ -20,5 +20,11 @@ git log
 ```sh
 git log --oneline
 ```
-
-git checkout
+Способ перемещения по всем созданным коммитам:
+```sh
+git checkout номер коммита
+```
+Способ всегда вернуться в исходную конечную точку:
+```sh
+git checkout master
+```
