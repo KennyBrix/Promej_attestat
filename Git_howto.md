@@ -36,7 +36,11 @@ git status
 ```sh
 git diff
 ```
-Перемещение по веткам
+Отображение всех веток
+```sh
+git branch
 ```
-git checkout <branch_name>
+Перемещение по веткам
+```sh
+git checkout <имя_ветки>
 ```
