@@ -40,3 +40,7 @@ git diff
 ```sh
 git branch
 ```
+Перемещение по веткам
+```sh
+git checkout <имя ветки>
+```
