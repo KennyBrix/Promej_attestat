@@ -10,7 +10,7 @@ git add имя файла
 ```
 Создание коммита:
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 Просмотреть все созданные коммиты:
 ```sh
